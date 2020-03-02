@@ -9,4 +9,4 @@ I was able to seperate edible from poisonous mushrooms by their attributes with 
 [Link to blog post](https://medium.com/@majorglasslabs/mushroom-foraging-is-it-edible-dfdcdf088184)  
 
 And heres a link to my coding notebook  
-[Mushroom blog colab notebook](https://drive.google.com/open?id=1wjRjVmCz0Kwm0A9scAIIbt9tM1n5zN7S)
+[Mushroom blog colab notebook](https://colab.research.google.com/drive/1wjRjVmCz0Kwm0A9scAIIbt9tM1n5zN7S)

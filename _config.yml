@@ -20,7 +20,9 @@ description: Data Science Projects as of Jan. 2020
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Graduated Salem Community College in 2014 with AS in Scientific Glass Technology.
+  Worked as a scientific glassblower until Dec 2019.
+  Started Lambda School for Data Science in Jan 2020."
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,7 +62,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Christopher Major
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,9 +71,9 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: ChristopherMajor
+#  facebook: deanattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -87,9 +89,9 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
